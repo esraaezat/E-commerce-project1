@@ -24,7 +24,7 @@ const initialProducts = [
         name: "Wireless Headphones",
         price: 99.99,
         image: "https://m.media-amazon.com/images/I/515X1z3CmML.__AC_SX300_SY300_QL70_ML2_.jpg",
-        description: "High-quality wireless headphones ",
+        description: "High-quality headphones ",
         categoryId: 1
     },
     {
